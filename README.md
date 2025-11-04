@@ -1,8 +1,12 @@
 # 🛍️ Revela - AI-Powered Product Scanner
 
 <div align="center">
+# 👁️‍🗨️ ReveLa — AI Product Ingredient Scanner
 
-![Revela Banner](assets/images/logo.png)
+<img src="assets/images/logo.png" alt="Revela Logo" width="80" height="80">
+
+> **Scan Anything. Know Everything.**
+
 
 **Scan. Analyze. Make Informed Choices.**
 
