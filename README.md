@@ -2,10 +2,8 @@
 
 <div align="center">
 # 👁️‍🗨️ ReveLa — AI Product Ingredient Scanner
-
-<img src="assets/images/logo.png" alt="Revela Logo" width="80" height="80">
-
-> **Scan Anything. Know Everything.**
+<img src="assets/images/logo.png" alt="Revela Logo" width="80" height="80"
+> 
 
 
 **Scan. Analyze. Make Informed Choices.**
