@@ -300,9 +300,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-- 🐛 [Report a Bug](https://github.com/yourusername/revela/issues)
-- 💡 [Request a Feature](https://github.com/yourusername/revela/issues)
-- 📧 [Email Support](mailto:support@revela.app)
+- 🐛 [Report a Bug](https://github.com/sanjay434343/revela/issues)
+- 💡 [Request a Feature](https://github.com/sanjay434343/revela/issues)
+- 📧 [Email Support](mailto:sanjay13649@gmail.com)
 
 ---
 
