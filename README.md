@@ -1,7 +1,7 @@
 # README.md
 ## Project Overview
 
-A software project consisting of **20** source files spanning .swift, .cpp, .txt, .h, .yaml, .md. Documentation generated locally from file metadata (no remote AI).
+A software project consisting of **20** source files spanning .swift, .cpp, .txt, .h, .yaml, .html. Documentation generated locally from file metadata (no remote AI).
 
 
 ## Features
@@ -18,7 +18,6 @@ A software project consisting of **20** source files spanning .swift, .cpp, .txt
 - `windows/runner/utils.cpp` — 66 lines · 12 fn · 0 imports
 - `windows/runner/flutter_window.cpp` — 72 lines · 12 fn · 0 imports
 - `windows/runner/win32_window.h` — 103 lines · 5 fn · 0 imports
-- `README.md` — 316 lines · 0 fn · 0 imports *(large)*
 - `macos/Flutter/GeneratedPluginRegistrant.swift` — 21 lines · 1 fn · 7 imports
 - `windows/CMakeLists.txt` — 109 lines · 1 fn · 0 imports
 - `pubspec.yaml` — 98 lines · 0 fn · 0 imports
@@ -26,6 +25,7 @@ A software project consisting of **20** source files spanning .swift, .cpp, .txt
 - `linux/CMakeLists.txt` — 129 lines · 1 fn · 0 imports
 - `ios/RunnerTests/RunnerTests.swift` — 13 lines · 1 fn · 3 imports
 - `macos/RunnerTests/RunnerTests.swift` — 13 lines · 1 fn · 3 imports
+- `macos/Runner/AppDelegate.swift` — 14 lines · 2 fn · 2 imports
 
 
 # Architecture
@@ -39,7 +39,6 @@ An entry-point CLI (`index.js`) delegates to commands.
 - **windows/runner/utils.cpp** — complexity: 9, exports: 0
 - **windows/runner/flutter_window.cpp** — complexity: 7, exports: 0
 - **windows/runner/win32_window.h** — complexity: 10, exports: 0
-- **README.md** — complexity: 16, exports: 0
 - **macos/Flutter/GeneratedPluginRegistrant.swift** — complexity: 0, exports: 0
 - **windows/CMakeLists.txt** — complexity: 8, exports: 0
 - **pubspec.yaml** — complexity: 10, exports: 0
@@ -47,6 +46,7 @@ An entry-point CLI (`index.js`) delegates to commands.
 - **linux/CMakeLists.txt** — complexity: 7, exports: 0
 - **ios/RunnerTests/RunnerTests.swift** — complexity: 1, exports: 0
 - **macos/RunnerTests/RunnerTests.swift** — complexity: 1, exports: 0
+- **macos/Runner/AppDelegate.swift** — complexity: 0, exports: 0
 
 
 # Onboarding
